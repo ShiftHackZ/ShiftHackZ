@@ -1,6 +1,8 @@
 ![](.github/header.png)
 
-## About me:
+<p align="center"><img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/pacman.gif" /></p>
+
+## <img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/pikachu.gif" height="30" /> About me:
 
 👋 Hi, I’m Dmitriy Moroz (aka [ShiftHackZ](https://github.com/ShiftHackZ)).
 
@@ -10,7 +12,7 @@
 
 🌱 Education: Ph.D. in Computer Science.
 
-## 💬 How to contact me:
+## <img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/contact.gif" height="30" /> How to contact me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moroz-dm-m/)
 
@@ -18,7 +20,7 @@
 
 📄 For more information <a href="https://dmitriy.moroz.cc" target="_blank">check out my CV</a>.
 
-## 🛠 Technical Stack:
+## <img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/rocket.gif" height="30" /> Technical Stack:
 
 #### 📋 Languages and tools:
 
@@ -58,7 +60,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## 📊 Statistics:
+## <img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/cat.gif" height="30" />  Statistics:
 
 ![](https://komarev.com/ghpvc/?username=ShiftHackZ&style=for-the-badge)
 
