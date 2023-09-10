@@ -1,3 +1,5 @@
+![](.github/header.png)
+
 ## 👨🏻‍💻 About me:
 
 👋 Hi, I’m Dmitriy Moroz (aka [ShiftHackZ](https://github.com/ShiftHackZ)).
