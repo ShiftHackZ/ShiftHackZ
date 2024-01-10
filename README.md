@@ -8,7 +8,7 @@
 
 ⭐️ An Open Source advocate.
 
-🚀 Main technical stack: Mobile (Android Native + Flutter).
+🚀 Main technical stack: Android native (Java/Kotlin) mobile developer.
 
 🌱 Education: Ph.D. in Computer Science.
 
