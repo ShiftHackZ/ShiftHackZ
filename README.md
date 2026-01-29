@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/pikachu.gif" height="30" /> About me:
 
-👋 Hi, I’m Dmitriy Moroz (aka [ShiftHackZ](https://github.com/ShiftHackZ)).
+👋 Hi, I’m Dmitriy Moroz (aka [ShiftHackZ](https://github.com/ShiftHackZ), [D10G3N](https://d10g3n.live)).
 
 ⭐️ An Open Source advocate.
 
