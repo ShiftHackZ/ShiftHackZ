@@ -81,10 +81,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ShiftHackZ&style=for-the-badge)
 
-![ShiftHackZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiftHackZ&rank_icon=github&theme=dracula&show_icons=true&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiftHackZ&hide_progress=false&theme=dracula&bg_color=00000000&layout=compact&langs_count=10)
-
 <!---
 ShiftHackZ/ShiftHackZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
