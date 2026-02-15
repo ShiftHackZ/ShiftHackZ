@@ -18,12 +18,11 @@
 
 ✉️ Email: <a href="mailto:dmitriy@moroz.cc">dmitriy@moroz.cc</a>
 
-📄 For more information <a href="https://dmitriy.moroz.cc" target="_blank">check out my CV</a>.
-
 ## <img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/rocket.gif" height="30" /> My apps:
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Dmitriy+Moroz)
-[![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://search.f-droid.org/?q=com.shifthackz&lang=en)
+[![App Store](assets/app_store.png)](https://apps.apple.com/us/developer/dmytro-moroz/id1874464109)
+[![Play Store](assets/google_play.png)](https://play.google.com/store/apps/developer?id=Dmitriy+Moroz)
+[![F Droid](assets/fdroid.png)](https://search.f-droid.org/?q=com.shifthackz&lang=en)
 
 ## <img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/code.gif" height="30" /> Technical Stack:
 
