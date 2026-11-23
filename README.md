@@ -20,21 +20,21 @@
 
 ## <img src="https://raw.githubusercontent.com/ShiftHackZ/ShiftHackZ/master/.github/rocket.gif" height="30" /> My projects:
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="300">
       <a href="https://moroz.cc"><img src="assets/projects/morozinc.png" width="88" height="88" alt="Moroz Inc. icon" /></a>
       <br /><br />
       <a href="https://moroz.cc"><strong>Moroz Inc.</strong></a>
       <p>Web, mobile<br />& AI products.</p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="300">
       <a href="https://sdai.moroz.cc"><img src="assets/projects/sdai.png" width="88" height="88" alt="SDAI icon" /></a>
       <br /><br />
       <a href="https://sdai.moroz.cc"><strong>SDAI</strong></a>
       <p>AI art for<br />Android & iOS.</p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="300">
       <a href="https://github.com/ShiftHackZ/ellmsha"><img src="assets/projects/ellmsha.png" width="88" height="88" alt="eLLMsha icon" /></a>
       <br /><br />
       <a href="https://github.com/ShiftHackZ/ellmsha"><strong>eLLMsha</strong></a>
@@ -42,19 +42,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="300">
       <a href="https://xavucontrol.moroz.cc"><img src="assets/projects/xavucontrol.png" width="88" height="88" alt="Xavucontrol icon" /></a>
       <br /><br />
       <a href="https://xavucontrol.moroz.cc"><strong>Xavucontrol</strong></a>
       <p>Audio routing<br />for macOS.</p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="300">
       <a href="https://d10g3n.live"><img src="assets/projects/d10g3n.png" width="88" height="88" alt="D10G3N Live icon" /></a>
       <br /><br />
       <a href="https://d10g3n.live"><strong>D10G3N Live</strong></a>
       <p>Original music.<br />Albums & tracks.</p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="300">
       <a href="https://github.com/ShiftHackZ/WooCommerceMobile"><img src="assets/projects/wooapp.png" width="88" height="88" alt="WooApp icon" /></a>
       <br /><br />
       <a href="https://github.com/ShiftHackZ/WooCommerceMobile"><strong>WooApp</strong></a>
